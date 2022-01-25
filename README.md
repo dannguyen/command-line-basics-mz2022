@@ -12,6 +12,7 @@ Main reasons to learn the command-line:
 
 ## Chapters
 
+- [quick intro demo notes](quick-demo.md)
 - [BASICS](./BASICS.md)
 - [JUST TEXT](./JUSTTEXT.md) — text as a universal interface (piping and redirecting)
 - quick notes on [BIGQUERY](BIGQUERY.md)
